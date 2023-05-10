@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.konghq:unirest-object-mappers-gson:3.13.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.konghq/unirest-object-mappers-gson/3.13.10/36666f0e1d956e171355704b15ab33f2e7a2dbfa/unirest-object-mappers-gson-3.13.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.konghq/unirest-object-mappers-gson/3.13.10/5485cb1d4a002f13fa6afd21a4c66d1dbec14509/unirest-object-mappers-gson-3.13.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
